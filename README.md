@@ -10,7 +10,6 @@ Make sure the following are installed before proceeding:
 
 - **Starkli**: Cairo toolchain for StarkNet.
 - **Scarb**: Package manager for Cairo projects.
-- **StarkNet Foundry**: Framework for testing and deploying smart contracts.
 
 ---
 
